@@ -1,0 +1,19 @@
+Maxcotech Video Downloader includes these third-party programs and libraries.
+Their full license texts are in the "_internal\tools" folder next to the app
+and inside the bundled Python packages.
+
+FFmpeg (LGPL build, shared libraries)
+  https://ffmpeg.org  -  build by https://github.com/BtbN/FFmpeg-Builds
+  Licensed under the GNU Lesser General Public License v2.1 or later.
+  The FFmpeg libraries (avcodec-*.dll, avformat-*.dll, ...) are separate files
+  and can be replaced with your own build. Source code: https://ffmpeg.org/download.html
+  License text: _internal\tools\ffmpeg\LICENSE.txt
+
+Deno  -  https://deno.land  -  MIT License
+  License text: _internal\tools\deno\LICENSE.md
+
+yt-dlp  -  https://github.com/yt-dlp/yt-dlp  -  Unlicense (public domain)
+yt-dlp-ejs  -  https://github.com/yt-dlp/ejs  -  Unlicense; bundles MIT (astring) and ISC (meriyah) code
+requests, urllib3, certifi, and other Python packages  -  their own permissive licenses
+Python  -  https://www.python.org  -  PSF License
+Tcl/Tk  -  https://www.tcl.tk  -  BSD-style license

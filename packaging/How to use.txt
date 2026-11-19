@@ -1,0 +1,53 @@
+MAXCOTECH VIDEO DOWNLOADER - HOW TO USE
+=======================================
+
+Open it from the Start menu (or the desktop icon): "Maxcotech Video Downloader".
+
+FIRST TIME
+  The app asks where to save your videos. Pick any folder you like.
+  You can change it any time: Settings > Save to > Browse...
+
+ZOOM RECORDINGS
+  1. Paste your class messages into the top box - as many as you like at once:
+
+        Recording for Aug 8
+        https://us06web.zoom.us/rec/share/....
+        Passcode: Hx4=+tR9
+
+     One-per-line also works:   <link> <passcode>   or   <link>,<passcode>
+  2. Click "Add to queue and download" (or press Ctrl+Enter).
+  3. Each recording is named after the title line above its link.
+
+YOUTUBE
+  1. Pick a quality under Settings > YouTube quality:
+        Best, 1080p, 720p, 480p, or Audio only (MP3).
+     The quality is remembered for each link when you add it.
+  2. Paste video links (youtube.com/watch..., youtu.be/..., Shorts) or a
+     playlist / channel link. A playlist becomes one row per video.
+  3. Files are named after the video's title.
+  Only download videos you have the right to save (your own uploads, Creative
+  Commons videos, or material the owner allows you to keep). Private,
+  members-only and age-restricted videos aren't supported.
+
+SPEED SETTINGS
+  Connections per video   - default 16. Each video is split into pieces that
+                            download in parallel. Raise it on fast internet.
+                            (YouTube links use at most 8, as YouTube limits more.)
+  Videos at the same time - default 3.
+
+GOOD TO KNOW
+  * Pause/resume any time. Closing the app is safe: unfinished downloads continue
+    from where they stopped next time you open it.
+  * Right-click a row: open file, show in folder, pause, retry, copy link,
+    show error details, remove.
+  * Double-click a finished row to play it; double-click a failed row to see why.
+  * "Wrong or missing passcode"  -> check the passcode, remove the row, paste again.
+  * "Access denied / not found"  -> the link has expired or the host blocked it.
+  * "YouTube is asking to confirm you're not a bot" -> wait a while, then Retry,
+    and download fewer videos at the same time.
+  * The app keeps its download engine up to date by itself (checked once a day).
+  * Please respect your school's / host's rules about class recordings.
+
+WINDOWS SAID "Windows protected your PC" WHEN INSTALLING?
+  The installer isn't signed with a paid certificate, so Windows doesn't
+  recognise it. Click "More info" then "Run anyway".

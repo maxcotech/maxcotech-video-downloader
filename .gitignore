@@ -1,0 +1,13 @@
+﻿# build output (installers are too big for git; publish them as GitHub Releases)
+dist/
+build/
+*.spec
+# Python
+__pycache__/
+*.pyc
+.venv/
+# helper programs fetched at build time
+tools/
+# unfinished downloads
+*.part
+*.part.json
