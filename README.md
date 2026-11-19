@@ -28,8 +28,9 @@ at once and it downloads them in parallel, IDM-style, with pause/resume.
 
 ## Install
 
-Run `MaxcotechVideoDownloader-Setup-<version>.exe` (from this repository's Releases page
-when one is published, or build it yourself as below). It installs for the current user
+**[Download the latest installer](https://github.com/maxcotech/maxcotech-video-downloader/releases/latest)**
+(`MaxcotechVideoDownloader-Setup-<version>.exe`, Windows 10/11 64-bit; the release notes
+list its SHA-256 checksum), or build it yourself as below. It installs for the current user
 without an administrator password, adds a Start menu entry (and optionally a desktop
 icon), and can be removed from **Settings → Apps**. Everything it needs, including FFmpeg
 and Deno, is bundled.
@@ -135,6 +136,11 @@ DLLs), [Deno](https://deno.land) (MIT), [yt-dlp](https://github.com/yt-dlp/yt-dl
 [yt-dlp-ejs](https://github.com/yt-dlp/ejs) (Unlicense), plus Python, Tcl/Tk and Python
 packages under their own licenses. Details:
 [packaging/Third-party notices.txt](packaging/Third-party%20notices.txt).
+
+## License
+
+[MIT](LICENSE) © 2026 Maxcotech LTD. The bundled third-party components keep their own
+licenses (see above).
 
 ---
 
